@@ -1,1 +1,18 @@
-node_modules/ 
+# Node modules
+node_modules/
+
+# SQLite database
+src/database/*.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
